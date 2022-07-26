@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("ssh***********************");
         System.out.println("pull***********************");
+         System.out.println("github update***********************");
 
     }
 }
